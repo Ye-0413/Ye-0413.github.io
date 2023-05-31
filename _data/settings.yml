@@ -1,0 +1,14 @@
+#----------------------
+# About section
+
+blurb: <p><strong>Human-Computer interaction, Deep learning, and the Industry Robots.</strong> I am currently a researcher on HCI/VR. My research interests are in the areas of HCI, VR interface, and Learning technique.</p>
+
+#----------------------
+# Courses section
+
+#----------------------
+# Contact
+contact-info: <p>JIA Ye<br>The Hong Kong Polytechnic University (PolyU)<br>Department of Computing<br>Strand<br>Hong Kong<br>WC2R 2LS<br>CN</p>
+
+contact-links:
+  - {contact-text: Github, contact-link: "https://ye-0413.github.io/", icon: 'favicon.html'}
