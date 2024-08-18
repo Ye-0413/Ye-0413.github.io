@@ -3,7 +3,7 @@
 title: YE JIA
 
 # Name pronunciation (optional)
-name_pronunciation: Ye Jia
+#name_pronunciation: Ye Jia
 
 # Full name (for SEO)
 first_name: Ye
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Masster Student
+role: Master Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
