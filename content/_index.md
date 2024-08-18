@@ -44,7 +44,7 @@ sections:
       title: Upcoming Papers
       filters:
         folders:
-          - publication
+          - upcomingPublications
         exclude_featured: false
     design:
       view: citation
