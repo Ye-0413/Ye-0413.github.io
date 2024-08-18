@@ -50,7 +50,7 @@ interests:
 education:
   - area: MPhil Computer Science
     institution: The Hong Kong Polytechnic University
-    date_start: 2024-09-003
+    date_start: 2024-09-03
     date_end: current
     summary: |
        Presented papers at IEEE conferences with the contributions being published in IEEE journals.
