@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Upcoming Papers
+      title: Upcoming Publications
       filters:
         folders:
           - upcomingPublications
