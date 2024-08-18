@@ -41,14 +41,13 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Upcoming Papers
       filters:
         folders:
           - publication
-        featured_only: true
+        exclude_featured: false
     design:
-      view: article-grid
-      columns: 2
+      view: citation
   - block: collection
     content:
       title: Recent Publications
