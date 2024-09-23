@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Upcoming Publications
 cms_exclude: true
 
 # View.
