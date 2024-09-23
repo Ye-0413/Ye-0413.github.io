@@ -42,6 +42,7 @@ sections:
     id: papers
     content:
       title: Upcoming Publications
+      text: ""
       filters:
         folders:
           - upcomingPublications
@@ -50,7 +51,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
