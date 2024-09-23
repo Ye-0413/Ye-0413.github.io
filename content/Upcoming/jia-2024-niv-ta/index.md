@@ -13,7 +13,7 @@ authors:
 - Yaowei Wang
 - Qing Li
 date: '2024-01-01'
-publishDate: '2024-09-23T17:22:28.786430Z'
+publishDate: '2024-09-23T17:55:28.738102Z'
 publication_types:
 - paper-conference
 publication: '*2nd Annual IEEE International Conference on Metaverse Computing, Networking,
