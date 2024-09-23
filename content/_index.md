@@ -9,27 +9,27 @@ design:
   spacing: "4rem"
 
 sections:
-  #- block: resume-biography-3
-  #  content:
+  - block: resume-biography-3
+    content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-  #    username: admin
-   #   text: ""
+      username: admin
+      text: ""
       # Show a call-to-action button under your biography? (optional)
-  #    button:
- #  #     text: Download CV
-  #      url: uploads/resume.pdf
-  #  design:
-   #   css_class: dark
-   #   background:
-   #     color: black
-   #     image:
-   #       # Add your image background to `assets/media/`.
-   #       filename: stacked-peaks.svg
-   #       filters:
-   #         brightness: 1.0
-   #       size: cover
-  #        position: center
-  #        parallax: false
+      #button:
+       # text: Download CV
+       # url: uploads/resume.pdf
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
@@ -38,11 +38,11 @@ sections:
         I'm a researcher who interested in the topics related to the education, virtual reality, HCI. Please reach out to collaborate 😃
     design:
       columns: '1'
+
   - block: collection
     content:
       title: Upcoming Publications
       text: ""
-      page_type: publication
       filters:
         folders:
           - upcomingPublications
