@@ -39,7 +39,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
     content:
       title: Upcoming Publications
       text: ""
@@ -49,6 +48,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     content:
       title: Publications
