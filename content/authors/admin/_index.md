@@ -131,4 +131,4 @@ languages:
 
 ## About Me
 
-Ye Jia is a master's student in the Department of Computing at Hong Kong Polytechnic University. His research interests include Virtual Reality, Metaverse Technology, and Extended Reality. He has authored and co-authored papers for international conferences and journals, including IEEE Transactions on Learning Technologies, IEEE VR, and the IEEE International Conference on Metaverse Computing, Networking, and Applications.
+Ye Jia is pushing his MPhil degree in the Department of Computing at Hong Kong Polytechnic University. His research interests include Virtual Reality, Metaverse Technology, and Extended Reality. He has authored and co-authored papers for international conferences and journals, including IEEE Transactions on Learning Technologies, IEEE VR, and the IEEE International Conference on Metaverse Computing, Networking, and Applications.
