@@ -1,5 +1,5 @@
 ---
-title: Upcoming
+title: upcoming
 cms_exclude: true
 
 # View.
@@ -10,3 +10,4 @@ banner:
   caption: ''
   image: ''
 ---
+
