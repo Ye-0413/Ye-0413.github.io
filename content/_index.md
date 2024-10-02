@@ -45,7 +45,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication/Upcoming/
+          - Upcoming
         exclude_featured: false
     design:
       view: citation
