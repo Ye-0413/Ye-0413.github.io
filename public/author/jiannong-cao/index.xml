@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiannong Cao | YE JIA</title>
+    <link>http://localhost:1313/author/jiannong-cao/</link>
+      <atom:link href="http://localhost:1313/author/jiannong-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiannong Cao</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 17:55:28 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Jiannong Cao</title>
+      <link>http://localhost:1313/author/jiannong-cao/</link>
+    </image>
+    
+    <item>
+      <title>Traceable Teleportation: Improving Spatial Understanding and Memory in Virtual Locomotion</title>
+      <link>http://localhost:1313/upcoming/jia-2024-traceable/</link>
+      <pubDate>Mon, 23 Sep 2024 17:55:28 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jia-2024-traceable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge-Graph-Driven Mind Mapping for Immersive Collaborative Learning: A Pilot Study in Edu-Metaverse</title>
+      <link>http://localhost:1313/publication/jia-2024-knowledge/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jia-2024-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From classroom to metaverse: a study on gamified constructivist teaching in higher education</title>
+      <link>http://localhost:1313/publication/ng-2023-classroom/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ng-2023-classroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an edu-metaverse of knowledge: Immersive exploration of university courses</title>
+      <link>http://localhost:1313/publication/sin-2023-towards/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sin-2023-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
