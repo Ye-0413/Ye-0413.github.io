@@ -13,10 +13,101 @@
     </image>
     
     <item>
+      <title>K-Cube</title>
+      <link>http://localhost:1313/project/k-cube/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/k-cube/</guid>
+      <description>&lt;h1 id=&#34;about-k-cube-ai&#34;&gt;About K-Cube AI&lt;/h1&gt;
+&lt;p&gt;AI knowledge graphs in immersive virtual reality environments provide the opportunity to enhance the edu-metaverse for interactive teaching and learning. This is an innovative approach to active learning that combines advanced metaverse technology with educational content. The K-Cube project is the first prototype of its kind. It combines multiple modes of 3D, immersive, interactive representations of knowledge points, where concepts and their interrelationships are visually depicted. The K-Cube immersive knowledge graphs encompass various academic subjects, providing students with a comprehensive understanding of topics. In our current CAVE virtual reality environment, students can interact with knowledge graphs guided by an AI virtual assitant and explore relationships between concepts. This interaction promotes knowledge retention, active learning, and critical thinking. It also allows for a personalized learning experience, as students can navigate through the knowledge graph and create their own knowledge bubbles. The K-Cube immersive AI knowledge graph aims to revolutionize immersive teaching and learning by making complex information accessible and engaging.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://158.132.8.148/kcube/assets/avi/0120-about/vid/0120-K-Cube-About-VR-01-VirtualPeter.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;The development of the K-Cube AI started in 2021 as a strategic initiative project in the Department of Computing, at The Hong Kong Polytechnic University. The project was showcased to government officials and the general public in July 2022 at the InnoMart Expo, in the Hong Kong Science Park. It has achieved international recognition in top academic journals such as the IEEE Transactions on Learning Technologies (Dec. 2023, May. 2024), and international conferences, such as the International Conference on Blended Learning, (ICBL 2022), the International Conference on Web-Based Learning (ICWL 2022 and 2023), and the Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2024).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://158.132.8.148/kcube/assets/avi/0120-about/vid/0120-K-Cube-About-VR-02-b.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;The K-Cube project has received the Best Paper Award at the 21st International Conference on Web-based Learning (ICWL 2022). The Hong Kong Children&amp;rsquo;s Hospital has been involved in developing a simulation of the perioperative journey in the operating theatre to help children cope with their fears of medical procedures. The K-Cube project has been part of new immersive presentation styles in the classroom accompanied by AI assisted virtual agents, such as Virtual Peter. The K-Cube project has recieved much attention from multiple local and international organizations. It strives to bring together AI and the metaverse to enable an immersive learning experience for all ages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Traceable Teleportation: Improving Spatial Understanding and Memory in Virtual Locomotion</title>
       <link>http://localhost:1313/upcoming/jia-2024-traceable/</link>
       <pubDate>Mon, 23 Sep 2024 17:55:28 +0000</pubDate>
       <guid>http://localhost:1313/upcoming/jia-2024-traceable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications</title>
+      <link>http://localhost:1313/event/metacom_2024/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/metacom_2024/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://158.132.8.148/kcube/assets/avi/0001-events/vid/0001-K-Cube-Event-20240813-1500-IEEE-MetaCom2024-JiaYe.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge-Graph-Driven Mind Mapping for Immersive Collaborative Learning: A Pilot Study in Edu-Metaverse</title>
+      <link>http://localhost:1313/publication/jia-2024-knowledge/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jia-2024-knowledge/</guid>
       <description></description>
     </item>
     
@@ -31,16 +122,8 @@
     <item>
       <title>illumotion: An Optical-illusion-based VR Locomotion Technique for Long-Distance 3D Movement</title>
       <link>http://localhost:1313/publication/sin-2024-illumotion/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/sin-2024-illumotion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knowledge-Graph-Driven Mind Mapping for Immersive Collaborative Learning: A Pilot Study in Edu-Metaverse</title>
-      <link>http://localhost:1313/publication/jia-2024-knowledge/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jia-2024-knowledge/</guid>
       <description></description>
     </item>
     
@@ -160,30 +243,6 @@
 &lt;p&gt;Released under the 
  license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -315,7 +374,7 @@
 
 
 
-&lt;div id=&#34;chart-174256938&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-947523186&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -333,7 +392,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-174256938&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-947523186&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -996,30 +1055,6 @@ Parallel 4   :         des6, after des4, 1d
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/wang-2020-design/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications</title>
-      <link>http://localhost:1313/post/event/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s 
- feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including 
- such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

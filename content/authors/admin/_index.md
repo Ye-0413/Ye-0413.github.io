@@ -1,6 +1,6 @@
 ---
 # Display name
-title: YE JIA
+title: Ye Jia
 
 # Name pronunciation (optional)
 #name_pronunciation: Ye Jia
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Student
+role: MPhil Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -46,6 +46,7 @@ interests:
   - Virtual Reality
   - Extend Reality
   - Metaverse Technology
+  - Human-Computer Interaction
 
 education:
   - area: MPhil Computer Science
@@ -54,9 +55,6 @@ education:
     date_end: 2026-09-01
     summary: |
        Presented papers at IEEE conferences with the contributions being published in IEEE journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: BEng Robotics Engineering
     institution: Chongqing University of Arts and Sciences
     date_start: 2018-09-01
@@ -69,7 +67,8 @@ education:
       - Signal Analysis and Processing
       - Electromechanical Transmission Control
 work:
-  - position: Research/Project Assistant
+
+  - position: Research/Research Assistant
     company_name: Chongqing University of Arts and Sciences
     company_url: ''
     company_logo: ''
@@ -79,6 +78,16 @@ work:
       Responsibilities include:
       - Analysis data
       - Writing academc paper
+  - position: Research/Project Assistant
+    company_name: The Hong Kong Polytechnic University
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-08-22
+    date_end: '2024-08-30'
+    summary: |2-
+      Responsibilities include:
+      - Writing academic paper
+      - Develop application for academic purpose
  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -93,6 +102,10 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
+      - name: Unity
+        descioption: 'Using Unity to develop VR applications'
+        percent: 85
+
   
   - name: Hobbies
     color: '#eeac02'
@@ -101,7 +114,7 @@ skills:
       - name: Basketball
         description: ''
         percent: 60
-        icon: basketball
+        icon: basketball.svg
       - name: Photography
         description: ''
         percent: 80
@@ -109,7 +122,7 @@ skills:
 
 languages:
   - name: English
-    percent: 75
+    percent: 85
   - name: Chinese
     percent: 100
 
@@ -131,4 +144,4 @@ languages:
 
 ## About Me
 
-Ye Jia is pushing his MPhil degree in the Department of Computing at Hong Kong Polytechnic University. His research interests include Virtual Reality, Metaverse Technology, and Extended Reality. He has authored and co-authored papers for international conferences and journals, including IEEE Transactions on Learning Technologies, IEEE VR, and the IEEE International Conference on Metaverse Computing, Networking, and Applications.
+Ye Jia is working toward his MPhil degree in the Department of Computing at Hong Kong Polytechnic University. His research interests include Virtual Reality, Metaverse Technology, and Extended Reality. He has authored and co-authored papers for international conferences and journals, including IEEE Transactions on Learning Technologies, IEEE VR, and the IEEE International Conference on Metaverse Computing, Networking, and Applications.

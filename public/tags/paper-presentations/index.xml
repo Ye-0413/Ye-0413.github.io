@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper Presentations | YE JIA</title>
+    <link>http://localhost:1313/tags/paper-presentations/</link>
+      <atom:link href="http://localhost:1313/tags/paper-presentations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper Presentations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Paper Presentations</title>
+      <link>http://localhost:1313/tags/paper-presentations/</link>
+    </image>
+    
+    <item>
+      <title>2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications</title>
+      <link>http://localhost:1313/event/metacom_2024/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/metacom_2024/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://158.132.8.148/kcube/assets/avi/0001-events/vid/0001-K-Cube-Event-20240813-1500-IEEE-MetaCom2024-JiaYe.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
