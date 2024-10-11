@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Ng | YE JIA</title>
-    <link>http://localhost:61642/author/peter-ng/</link>
-      <atom:link href="http://localhost:61642/author/peter-ng/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:53336/author/peter-ng/</link>
+      <atom:link href="http://localhost:53336/author/peter-ng/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Ng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:61642/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:53336/media/icon_hu8220015122150247861.png</url>
       <title>Peter Ng</title>
-      <link>http://localhost:61642/author/peter-ng/</link>
+      <link>http://localhost:53336/author/peter-ng/</link>
     </image>
     
     <item>
       <title>NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE</title>
-      <link>http://localhost:61642/upcoming/jia-2024-niv-ta/</link>
+      <link>http://localhost:53336/upcoming/jia-2024-niv-ta/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61642/upcoming/jia-2024-niv-ta/</guid>
+      <guid>http://localhost:53336/upcoming/jia-2024-niv-ta/</guid>
       <description></description>
     </item>
     

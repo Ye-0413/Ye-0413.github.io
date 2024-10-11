@@ -57,7 +57,6 @@
       "title",
       "tr",
       "ul",
-      "video",
       "|--"
     ],
     "classes": [
@@ -562,8 +561,9 @@
       "TableOfContents",
       "about-k-cube-ai",
       "about-me",
+      "abstract",
       "callouts",
-      "chart-218436957",
+      "chart-468592713",
       "charts",
       "code",
       "crowd-funded-open-source-software",

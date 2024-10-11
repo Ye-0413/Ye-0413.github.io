@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astin CH Wu | YE JIA</title>
-    <link>http://localhost:61642/author/astin-ch-wu/</link>
-      <atom:link href="http://localhost:61642/author/astin-ch-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:53336/author/astin-ch-wu/</link>
+      <atom:link href="http://localhost:53336/author/astin-ch-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Astin CH Wu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:61642/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:53336/media/icon_hu8220015122150247861.png</url>
       <title>Astin CH Wu</title>
-      <link>http://localhost:61642/author/astin-ch-wu/</link>
+      <link>http://localhost:53336/author/astin-ch-wu/</link>
     </image>
     
     <item>
       <title>Towards an edu-metaverse of knowledge: Immersive exploration of university courses</title>
-      <link>http://localhost:61642/publication/sin-2023-towards/</link>
+      <link>http://localhost:53336/publication/sin-2023-towards/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61642/publication/sin-2023-towards/</guid>
+      <guid>http://localhost:53336/publication/sin-2023-towards/</guid>
       <description></description>
     </item>
     
