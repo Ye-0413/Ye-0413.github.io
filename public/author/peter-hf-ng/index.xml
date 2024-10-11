@@ -2,45 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter HF Ng | YE JIA</title>
-    <link>http://localhost:53336/author/peter-hf-ng/</link>
-      <atom:link href="http://localhost:53336/author/peter-hf-ng/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:63166/author/peter-hf-ng/</link>
+      <atom:link href="http://localhost:63166/author/peter-hf-ng/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter HF Ng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:53336/media/icon_hu8220015122150247861.png</url>
+      <url>http://localhost:63166/media/icon_hu8220015122150247861.png</url>
       <title>Peter HF Ng</title>
-      <link>http://localhost:53336/author/peter-hf-ng/</link>
+      <link>http://localhost:63166/author/peter-hf-ng/</link>
     </image>
     
     <item>
       <title>Knowledge-Graph-Driven Mind Mapping for Immersive Collaborative Learning: A Pilot Study in Edu-Metaverse</title>
-      <link>http://localhost:53336/publication/jia-2024-knowledge/</link>
+      <link>http://localhost:63166/publication/jia-2024-knowledge/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53336/publication/jia-2024-knowledge/</guid>
-      <description></description>
+      <guid>http://localhost:63166/publication/jia-2024-knowledge/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;One of the promises of edu-metaverse is its ability to provide a virtual environment that enables us to engage in learning activities that are similar to or on par with reality. The digital enhancements introduced in a virtual environment contribute to our increased expectations of novel learning experiences. However, despite its promising outcomes, there appears to be limited adoption of the edu-metaverse for practical learning at this time. We believe this can be attributed to the fact that there is a lack of investigation into learners’ behavior given a social learning environment. This lack of investigation is critical, as without behavioral insight, it hinders the development of education material and the direction of an edu-metaverse. Upon completing our work with the pilot user studies, we provide the following insights: 1) compared to Zoom, a typical video conferencing and remote collaboration platform, learners in the edu-metaverse demonstrate heightened involvement in learning activities, particularly when drawing mind mapping aided by the embedded knowledge graph, and this copresence signiﬁcantly boosts learner engagement and collaborative contribution to the learning tasks; and 2) the interaction and learning activity design within the edu-metaverse, especially concerning the use of MM.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>illumotion: An Optical-illusion-based VR Locomotion Technique for Long-Distance 3D Movement</title>
-      <link>http://localhost:53336/publication/sin-2024-illumotion/</link>
+      <link>http://localhost:63166/publication/sin-2024-illumotion/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53336/publication/sin-2024-illumotion/</guid>
-      <description></description>
+      <guid>http://localhost:63166/publication/sin-2024-illumotion/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Locomotion has a marked impact on user experience in VR, but currently, common to-go techniques such as steering and teleportation have their limitations. Particularly, steering is prone to cybersickness, while teleportation trades presence for mitigating cybersickness. Inspired by how we manipulate a picture on a mobile phone, we propose illumotion, an optical-illusion-based method that, we believe, can provide an alternative to these two typical techniques. Instead of zooming in a picture by pinching two ﬁngers, we can move forward by “zooming” toward part of the 3D virtual scene with pinched hands. Not only is the proposed technique easy to use, it also seems to minimize cybersickness to some degree.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;illumotion&lt;/em&gt; relies on the manipulation of optics; as such, it requires solving motion parameters in screen space and a model of how we perceive depth. To evaluate it, a comprehensive user study with 66 users was conducted. Results show that, compared with either teleportation, steering or both, illumotion has better performance, presence, usability, user experience and cybersickness alleviation. We believe the result is a clear indication that our novel opticallydriven method is a promising candidate for generalized locomotion.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>From classroom to metaverse: a study on gamified constructivist teaching in higher education</title>
-      <link>http://localhost:53336/publication/ng-2023-classroom/</link>
+      <link>http://localhost:63166/publication/ng-2023-classroom/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53336/publication/ng-2023-classroom/</guid>
+      <guid>http://localhost:63166/publication/ng-2023-classroom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards an edu-metaverse of knowledge: Immersive exploration of university courses</title>
-      <link>http://localhost:53336/publication/sin-2023-towards/</link>
+      <link>http://localhost:63166/publication/sin-2023-towards/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53336/publication/sin-2023-towards/</guid>
+      <guid>http://localhost:63166/publication/sin-2023-towards/</guid>
       <description></description>
     </item>
     

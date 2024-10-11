@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yaowei Wang | YE JIA</title>
-    <link>http://localhost:53336/author/yaowei-wang/</link>
-      <atom:link href="http://localhost:53336/author/yaowei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:63166/author/yaowei-wang/</link>
+      <atom:link href="http://localhost:63166/author/yaowei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yaowei Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:53336/media/icon_hu8220015122150247861.png</url>
+      <url>http://localhost:63166/media/icon_hu8220015122150247861.png</url>
       <title>Yaowei Wang</title>
-      <link>http://localhost:53336/author/yaowei-wang/</link>
+      <link>http://localhost:63166/author/yaowei-wang/</link>
     </image>
     
     <item>
       <title>NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE</title>
-      <link>http://localhost:53336/upcoming/jia-2024-niv-ta/</link>
+      <link>http://localhost:63166/upcoming/jia-2024-niv-ta/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53336/upcoming/jia-2024-niv-ta/</guid>
+      <guid>http://localhost:63166/upcoming/jia-2024-niv-ta/</guid>
       <description></description>
     </item>
     

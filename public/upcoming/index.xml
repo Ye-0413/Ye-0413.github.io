@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>upcoming | YE JIA</title>
-    <link>http://localhost:53336/upcoming/</link>
-      <atom:link href="http://localhost:53336/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:63166/upcoming/</link>
+      <atom:link href="http://localhost:63166/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <description>upcoming</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 17:55:28 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:53336/media/icon_hu8220015122150247861.png</url>
+      <url>http://localhost:63166/media/icon_hu8220015122150247861.png</url>
       <title>upcoming</title>
-      <link>http://localhost:53336/upcoming/</link>
+      <link>http://localhost:63166/upcoming/</link>
     </image>
     
     <item>
       <title>Traceable Teleportation: Improving Spatial Understanding and Memory in Virtual Locomotion</title>
-      <link>http://localhost:53336/upcoming/jia-2024-traceable/</link>
+      <link>http://localhost:63166/upcoming/jia-2024-traceable/</link>
       <pubDate>Mon, 23 Sep 2024 17:55:28 +0000</pubDate>
-      <guid>http://localhost:53336/upcoming/jia-2024-traceable/</guid>
+      <guid>http://localhost:63166/upcoming/jia-2024-traceable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE</title>
-      <link>http://localhost:53336/upcoming/jia-2024-niv-ta/</link>
+      <link>http://localhost:63166/upcoming/jia-2024-niv-ta/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53336/upcoming/jia-2024-niv-ta/</guid>
+      <guid>http://localhost:63166/upcoming/jia-2024-niv-ta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Effective Collaborative Learning in Edu-Metaverse: A Study on Learners’ Anxiety, Perception, and Behaviour</title>
-      <link>http://localhost:53336/upcoming/lu-2024-effective/</link>
+      <link>http://localhost:63166/upcoming/lu-2024-effective/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53336/upcoming/lu-2024-effective/</guid>
+      <guid>http://localhost:63166/upcoming/lu-2024-effective/</guid>
       <description></description>
     </item>
     
