@@ -59,7 +59,7 @@ projects:
   - K-Cube
 ---
 
+{{< bilibili id="BV1xb22YYEv8" controls="yes">}} 
 
-{{< video src="http://kcube.comp.polyu.edu.hk/kcube/assets/avi/0001-events/vid/0001-K-Cube-Event-20240813-1500-IEEE-MetaCom2024-JiaYe.mp4" controls="yes" >}}
 
 

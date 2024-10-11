@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiangzhi Eric Wang | YE JIA</title>
-    <link>http://localhost:1313/author/xiangzhi-eric-wang/</link>
-      <atom:link href="http://localhost:1313/author/xiangzhi-eric-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:61642/author/xiangzhi-eric-wang/</link>
+      <atom:link href="http://localhost:61642/author/xiangzhi-eric-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiangzhi Eric Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:61642/media/icon_hu7729264130191091259.png</url>
       <title>Xiangzhi Eric Wang</title>
-      <link>http://localhost:1313/author/xiangzhi-eric-wang/</link>
+      <link>http://localhost:61642/author/xiangzhi-eric-wang/</link>
     </image>
     
     <item>
       <title>Knowledge-Graph-Driven Mind Mapping for Immersive Collaborative Learning: A Pilot Study in Edu-Metaverse</title>
-      <link>http://localhost:1313/publication/jia-2024-knowledge/</link>
+      <link>http://localhost:61642/publication/jia-2024-knowledge/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jia-2024-knowledge/</guid>
+      <guid>http://localhost:61642/publication/jia-2024-knowledge/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Isaac Dan Zhao | YE JIA</title>
-    <link>http://localhost:1313/author/isaac-dan-zhao/</link>
-      <atom:link href="http://localhost:1313/author/isaac-dan-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:61642/author/isaac-dan-zhao/</link>
+      <atom:link href="http://localhost:61642/author/isaac-dan-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Isaac Dan Zhao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:61642/media/icon_hu7729264130191091259.png</url>
       <title>Isaac Dan Zhao</title>
-      <link>http://localhost:1313/author/isaac-dan-zhao/</link>
+      <link>http://localhost:61642/author/isaac-dan-zhao/</link>
     </image>
     
     <item>
       <title>Towards an edu-metaverse of knowledge: Immersive exploration of university courses</title>
-      <link>http://localhost:1313/publication/sin-2023-towards/</link>
+      <link>http://localhost:61642/publication/sin-2023-towards/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sin-2023-towards/</guid>
+      <guid>http://localhost:61642/publication/sin-2023-towards/</guid>
       <description></description>
     </item>
     

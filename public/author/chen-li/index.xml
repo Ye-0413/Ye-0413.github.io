@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chen Li | YE JIA</title>
-    <link>http://localhost:1313/author/chen-li/</link>
-      <atom:link href="http://localhost:1313/author/chen-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:61642/author/chen-li/</link>
+      <atom:link href="http://localhost:61642/author/chen-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Chen Li</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:61642/media/icon_hu7729264130191091259.png</url>
       <title>Chen Li</title>
-      <link>http://localhost:1313/author/chen-li/</link>
+      <link>http://localhost:61642/author/chen-li/</link>
     </image>
     
     <item>
       <title>Knowledge-Graph-Driven Mind Mapping for Immersive Collaborative Learning: A Pilot Study in Edu-Metaverse</title>
-      <link>http://localhost:1313/publication/jia-2024-knowledge/</link>
+      <link>http://localhost:61642/publication/jia-2024-knowledge/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jia-2024-knowledge/</guid>
+      <guid>http://localhost:61642/publication/jia-2024-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Effective Collaborative Learning in Edu-Metaverse: A Study on Learners’ Anxiety, Perception, and Behaviour</title>
+      <link>http://localhost:61642/upcoming/lu-2024-effective/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61642/upcoming/lu-2024-effective/</guid>
       <description></description>
     </item>
     
