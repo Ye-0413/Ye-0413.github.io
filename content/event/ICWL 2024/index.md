@@ -15,7 +15,7 @@ abstract: 'In the evolving landscape of educational technology, EduMetaverse pre
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-11-26'
-date_end: '2024-08-28'
+date_end: '2024-11-28'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
