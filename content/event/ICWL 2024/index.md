@@ -2,7 +2,7 @@
 title: 23rd International Conference on Web-based Learning
 
 event: Presentation
-event_url: 
+event_url: https://example.org
 
 location: Shang Hai
 address:
