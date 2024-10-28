@@ -10,10 +10,12 @@ authors:
 - Laura Zhou
 - Qing Li
 - Chen Li
-date: '2024-01-01'
+date: '2024-01-09'
 publishDate: '2024-10-11T09:12:04.599119Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the International Conference on Web-based Learning (ICWL)
   2024*'
 ---
+- Submitted 15 Aug 2024
+- **Accepted**, 01 Sep 2024
