@@ -2,7 +2,7 @@
 title: 2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications
 
 event: Presentation
-event_url: https://example.org
+event_url: 
 
 location: Hong Kong
 address:
@@ -55,11 +55,14 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+
+#{{< bilibili id="BV1xb22YYEv8" controls="yes">}}
 projects:
   - K-Cube
 ---
 
-{{< bilibili id="BV1xb22YYEv8" controls="yes">}} 
+
+{{< video src="https://kcube.comp.polyu.edu.hk/kcube/assets/avi/0080-conf/vid/0080-K-Cube-Conference-240813-MetaCom2024-JiaYe.mp4" controls="yes" >}}
 
 
 
