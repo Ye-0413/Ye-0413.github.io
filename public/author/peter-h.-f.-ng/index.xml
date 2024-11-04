@@ -2,30 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter H. F. Ng | YE JIA</title>
-    <link>http://localhost:63166/author/peter-h.-f.-ng/</link>
-      <atom:link href="http://localhost:63166/author/peter-h.-f.-ng/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/peter-h.-f.-ng/</link>
+      <atom:link href="http://localhost:1313/author/peter-h.-f.-ng/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter H. F. Ng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 17:55:28 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:63166/media/icon_hu8220015122150247861.png</url>
+      <url>http://localhost:1313/media/icon_hu8220015122150247861.png</url>
       <title>Peter H. F. Ng</title>
-      <link>http://localhost:63166/author/peter-h.-f.-ng/</link>
+      <link>http://localhost:1313/author/peter-h.-f.-ng/</link>
     </image>
     
     <item>
       <title>Traceable Teleportation: Improving Spatial Understanding and Memory in Virtual Locomotion</title>
-      <link>http://localhost:63166/upcoming/jia-2024-traceable/</link>
+      <link>http://localhost:1313/upcoming/jia-2024-traceable_/</link>
       <pubDate>Mon, 23 Sep 2024 17:55:28 +0000</pubDate>
-      <guid>http://localhost:63166/upcoming/jia-2024-traceable/</guid>
-      <description></description>
+      <guid>http://localhost:1313/upcoming/jia-2024-traceable_/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Submitted, 02 Jan 2024&lt;/li&gt;
+&lt;li&gt;Revision 1, 18 Apr 2024&lt;/li&gt;
+&lt;li&gt;Revision 2, 23 Sep 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;, 22 Oct 2024&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Towards Effective Collaborative Learning in Edu-Metaverse: A Study on Learners’ Anxiety, Perception, and Behaviour</title>
-      <link>http://localhost:63166/upcoming/lu-2024-effective/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63166/upcoming/lu-2024-effective/</guid>
-      <description></description>
+      <link>http://localhost:1313/upcoming/lu-2024-effective/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/lu-2024-effective/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Submitted 15 Aug 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;, 01 Sep 2024&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

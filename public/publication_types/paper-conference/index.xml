@@ -2,21 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper-Conference | YE JIA</title>
-    <link>http://localhost:63166/publication_types/paper-conference/</link>
-      <atom:link href="http://localhost:63166/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/paper-conference/</link>
+      <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:63166/media/icon_hu8220015122150247861.png</url>
+      <url>http://localhost:1313/media/icon_hu8220015122150247861.png</url>
       <title>Paper-Conference</title>
-      <link>http://localhost:63166/publication_types/paper-conference/</link>
+      <link>http://localhost:1313/publication_types/paper-conference/</link>
     </image>
     
     <item>
+      <title>NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE</title>
+      <link>http://localhost:1313/upcoming/jia-2024-nivta/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jia-2024-nivta/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Submitted 23 Apr 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;, 23 Jun 2024&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>illumotion: An Optical-illusion-based VR Locomotion Technique for Long-Distance 3D Movement</title>
-      <link>http://localhost:63166/publication/sin-2024-illumotion/</link>
+      <link>http://localhost:1313/publication/sin-2024-illumotion/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63166/publication/sin-2024-illumotion/</guid>
+      <guid>http://localhost:1313/publication/sin-2024-illumotion/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Locomotion has a marked impact on user experience in VR, but currently, common to-go techniques such as steering and teleportation have their limitations. Particularly, steering is prone to cybersickness, while teleportation trades presence for mitigating cybersickness. Inspired by how we manipulate a picture on a mobile phone, we propose illumotion, an optical-illusion-based method that, we believe, can provide an alternative to these two typical techniques. Instead of zooming in a picture by pinching two ﬁngers, we can move forward by “zooming” toward part of the 3D virtual scene with pinched hands. Not only is the proposed technique easy to use, it also seems to minimize cybersickness to some degree.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;illumotion&lt;/em&gt; relies on the manipulation of optics; as such, it requires solving motion parameters in screen space and a model of how we perceive depth. To evaluate it, a comprehensive user study with 66 users was conducted. Results show that, compared with either teleportation, steering or both, illumotion has better performance, presence, usability, user experience and cybersickness alleviation. We believe the result is a clear indication that our novel opticallydriven method is a promising candidate for generalized locomotion.&lt;/p&gt;
@@ -24,34 +36,32 @@
     </item>
     
     <item>
-      <title>NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE</title>
-      <link>http://localhost:63166/upcoming/jia-2024-niv-ta/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63166/upcoming/jia-2024-niv-ta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Towards Effective Collaborative Learning in Edu-Metaverse: A Study on Learners’ Anxiety, Perception, and Behaviour</title>
-      <link>http://localhost:63166/upcoming/lu-2024-effective/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63166/upcoming/lu-2024-effective/</guid>
-      <description></description>
+      <link>http://localhost:1313/upcoming/lu-2024-effective/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/lu-2024-effective/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Submitted 15 Aug 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;, 01 Sep 2024&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>From classroom to metaverse: a study on gamified constructivist teaching in higher education</title>
-      <link>http://localhost:63166/publication/ng-2023-classroom/</link>
+      <link>http://localhost:1313/publication/ng-2023-classroom/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63166/publication/ng-2023-classroom/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/ng-2023-classroom/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;In the rapidly evolving educational landscape, the integration of metaverse and gamiﬁcation is emerging as a revolutionary approach. This paper presents the Gamiﬁed Constructivist Teaching in the Metaverse (GCTM) framework, aiming to enhance engagement and satisfaction in the computer science education domain. Implemented in two engineering classes using the metaverse platform, the GCTM model, with its unique combination of game world design, rule design, roleplay, mission assignments, and evaluation, demonstrated promising results in enhancing student-lecturer interactions. Feedback indicated a stronger sense of belonging among students in the virtual environment compared to conventional platforms like ZOOM or MS Teams. The ﬁndings underscore the potential of GCTM in transforming the educational experience, suggesting a signiﬁcant stride towards a more interactive and learner-centric approach in the metaverse-driven educational era.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Design of Intelligent Multi-layer Three-dimensional Bicycle Parking Garage</title>
-      <link>http://localhost:63166/publication/wang-2020-design/</link>
+      <link>http://localhost:1313/publication/wang-2020-design/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63166/publication/wang-2020-design/</guid>
+      <guid>http://localhost:1313/publication/wang-2020-design/</guid>
       <description></description>
     </item>
     

@@ -47,7 +47,8 @@
       "svg",
       "time",
       "title",
-      "ul"
+      "ul",
+      "video"
     ],
     "classes": [
       "!mb-4",
@@ -210,8 +211,6 @@
       "h-5",
       "h-6",
       "h-[18px]",
-      "h-auto",
-      "h-full",
       "hb-attachment-large",
       "hb-attachment-link",
       "hb-attachment-small",

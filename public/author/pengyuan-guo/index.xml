@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pengyuan Guo | YE JIA</title>
-    <link>http://localhost:63166/author/pengyuan-guo/</link>
-      <atom:link href="http://localhost:63166/author/pengyuan-guo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/pengyuan-guo/</link>
+      <atom:link href="http://localhost:1313/author/pengyuan-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Pengyuan Guo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:63166/media/icon_hu8220015122150247861.png</url>
+      <url>http://localhost:1313/media/icon_hu8220015122150247861.png</url>
       <title>Pengyuan Guo</title>
-      <link>http://localhost:63166/author/pengyuan-guo/</link>
+      <link>http://localhost:1313/author/pengyuan-guo/</link>
     </image>
     
     <item>
       <title>Design of Intelligent Multi-layer Three-dimensional Bicycle Parking Garage</title>
-      <link>http://localhost:63166/publication/wang-2020-design/</link>
+      <link>http://localhost:1313/publication/wang-2020-design/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63166/publication/wang-2020-design/</guid>
+      <guid>http://localhost:1313/publication/wang-2020-design/</guid>
       <description></description>
     </item>
     

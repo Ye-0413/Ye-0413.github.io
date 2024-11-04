@@ -2,30 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zackary P. T. Sin | YE JIA</title>
-    <link>http://localhost:63166/author/zackary-p.-t.-sin/</link>
-      <atom:link href="http://localhost:63166/author/zackary-p.-t.-sin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/zackary-p.-t.-sin/</link>
+      <atom:link href="http://localhost:1313/author/zackary-p.-t.-sin/index.xml" rel="self" type="application/rss+xml" />
     <description>Zackary P. T. Sin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 17:55:28 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:63166/media/icon_hu8220015122150247861.png</url>
+      <url>http://localhost:1313/media/icon_hu8220015122150247861.png</url>
       <title>Zackary P. T. Sin</title>
-      <link>http://localhost:63166/author/zackary-p.-t.-sin/</link>
+      <link>http://localhost:1313/author/zackary-p.-t.-sin/</link>
     </image>
     
     <item>
       <title>Traceable Teleportation: Improving Spatial Understanding and Memory in Virtual Locomotion</title>
-      <link>http://localhost:63166/upcoming/jia-2024-traceable/</link>
+      <link>http://localhost:1313/upcoming/jia-2024-traceable_/</link>
       <pubDate>Mon, 23 Sep 2024 17:55:28 +0000</pubDate>
-      <guid>http://localhost:63166/upcoming/jia-2024-traceable/</guid>
-      <description></description>
+      <guid>http://localhost:1313/upcoming/jia-2024-traceable_/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Submitted, 02 Jan 2024&lt;/li&gt;
+&lt;li&gt;Revision 1, 18 Apr 2024&lt;/li&gt;
+&lt;li&gt;Revision 2, 23 Sep 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;, 22 Oct 2024&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE</title>
-      <link>http://localhost:63166/upcoming/jia-2024-niv-ta/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63166/upcoming/jia-2024-niv-ta/</guid>
-      <description></description>
+      <link>http://localhost:1313/upcoming/jia-2024-nivta/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jia-2024-nivta/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Submitted 23 Apr 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;, 23 Jun 2024&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
