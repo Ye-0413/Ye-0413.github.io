@@ -40,3 +40,8 @@ links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S1071581924001824
 ---
+
+- Submitted, 02 Jan 2024
+- Revision 1, 18 Apr 2024
+- Revision 2, 23 Sep 2024
+- **Accepted**, 22 Oct 2024
