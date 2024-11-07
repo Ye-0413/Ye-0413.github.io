@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/ye-jia/</link>
       <atom:link href="http://localhost:1313/author/ye-jia/index.xml" rel="self" type="application/rss+xml" />
     <description>Ye Jia</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 17:55:28 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu8220015122150247861.png</url>
       <title>Ye Jia</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Traceable Teleportation: Improving Spatial Understanding and Memory in Virtual Locomotion</title>
-      <link>http://localhost:1313/upcoming/jia-2024-traceable_/</link>
-      <pubDate>Mon, 23 Sep 2024 17:55:28 +0000</pubDate>
-      <guid>http://localhost:1313/upcoming/jia-2024-traceable_/</guid>
+      <title>Traceable teleportation: Improving spatial learning in virtual locomotion</title>
+      <link>http://localhost:1313/publication/jia-2024-undoredo/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jia-2024-undoredo/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Submitted, 02 Jan 2024&lt;/li&gt;
 &lt;li&gt;Revision 1, 18 Apr 2024&lt;/li&gt;
@@ -52,6 +52,18 @@
   &lt;source src=&#34;https://kcube.comp.polyu.edu.hk/kcube/assets/avi/0080-conf/vid/0080-K-Cube-Conference-240813-MetaCom2024-JiaYe.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE</title>
+      <link>http://localhost:1313/upcoming/jia-2024-nivta/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jia-2024-nivta/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Submitted 23 Apr 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;, 23 Jun 2024&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
