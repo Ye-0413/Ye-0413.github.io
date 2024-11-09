@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         I'm a researcher interested in topics related to education, virtual reality, and HCI. Please reach out to collaborate 
-        If you are interested in my research topic, please feel free to contact me via *academic-ye.jia@hotmail.com*. 
+        If you are interested in my research topic, please feel free to contact me via academic-ye.jia@hotmail.com. 
     design:
       columns: '1'
 
