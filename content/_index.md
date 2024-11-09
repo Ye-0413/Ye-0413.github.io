@@ -32,10 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Call For Collaboration'
       subtitle: ''
       text: |-
-        I'm a researcher who interested in the topics related to the education, virtual reality, HCI. Please reach out to collaborate 😃
+        I'm a researcher interested in topics related to education, virtual reality, and HCI. Please reach out to collaborate 
+        If you are interested in my research topic, please feel free to contact me via *academic-ye.jia@hotmail.com*. 
     design:
       columns: '1'
 
