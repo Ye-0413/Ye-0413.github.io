@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'academic-ye.jia@hotmail.com'
+    url: academic-ye.jia@hotmail.com
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Ye-0413
