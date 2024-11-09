@@ -9,12 +9,11 @@ authors:
 - George Baciu
 - Jiannong Cao
 - Qing Li
-date: '2024-01-01'
-publishDate: '2024-11-09T13:54:30.944580Z'
+date: '2024-11-02'
+publishDate: '2024-11-04T11:53:58.533440Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Human-Computer Studies*'
-doi: https://doi.org/10.1016/j.ijhcs.2024.103399
 abstract: 'In virtual reality, point-and-teleport (P&T) is a locomotion technique
   that is popular for its user-friendliness, lowering workload and mitigating cybersickness.
   However, most P&T schemes use instantaneous transitions, which has been known to
@@ -37,6 +36,11 @@ tags:
 - Spatial learning
 - Spatial knowledge
 links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S1071581924001824
+- name: doi
+  url: https://doi.org/10.1016/j.ijhcs.2024.103399
 ---
+
+- Submitted, 02 Jan 2024
+- Revision 1, 18 Apr 2024
+- Revision 2, 23 Sep 2024
+- **Accepted, 22 Oct 2024**
