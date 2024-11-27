@@ -5,12 +5,21 @@
     <link>http://localhost:1313/tags/paper-presentations/</link>
       <atom:link href="http://localhost:1313/tags/paper-presentations/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper Presentations</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu8220015122150247861.png</url>
       <title>Paper Presentations</title>
       <link>http://localhost:1313/tags/paper-presentations/</link>
     </image>
+    
+    <item>
+      <title>23rd International Conference on Web-based Learning</title>
+      <link>http://localhost:1313/event/icwl_2024/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/icwl_2024/</guid>
+      <description>&lt;p&gt;To be updated&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications</title>

@@ -35,10 +35,8 @@ sections:
       title: '📚 Call For Collaboration'
       subtitle: ''
       text: |-
-        I'm a researcher interested in topics related to education, virtual reality, and HCI. Please reach out to collaborate 
+        I'm a researcher interested in topics related to Education, virtual reality, and HCI. Please reach out to collaborate 
 
-        
-        Email: academic-ye.jia@hotmail.com. 
     design:
       columns: '1'
 

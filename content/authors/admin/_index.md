@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: academic-ye.jia@hotmail.com
+    url: 'mailto:academic-ye.jia@hotmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Ye-0413
@@ -144,4 +144,4 @@ languages:
 
 ## About Me
 
-Ye Jia is working toward his MPhil degree in the Department of Computing at Hong Kong Polytechnic University. His research interests include Virtual Reality, Metaverse Technology, and Extended Reality. He has authored and co-authored papers for international conferences and journals, including IEEE Transactions on Learning Technologies, IEEE VR, and the IEEE International Conference on Metaverse Computing, Networking, and Applications.
+Ye Jia is working toward his MPhil degree in the Department of Computing at Hong Kong Polytechnic University. His research interests include Virtual Reality, Metaverse Technology, and Extended Reality. He has authored and co-authored papers for the top-tire international conferences and journals, including the International Journal of Human-Computer Studies (IJHCS), IEEE Transactions on Learning Technologies (TLT), International Conference on Virtual Reality and 3D User Interfaces (IEEE VR), and the IEEE International Conference on Metaverse Computing, Networking, and Applications(MetaCom).
