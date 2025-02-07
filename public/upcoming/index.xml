@@ -5,12 +5,60 @@
     <link>http://localhost:1313/upcoming/</link>
       <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <description>upcoming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu8220015122150247861.png</url>
       <title>upcoming</title>
       <link>http://localhost:1313/upcoming/</link>
     </image>
+    
+    <item>
+      <title>To Be Determined</title>
+      <link>http://localhost:1313/upcoming/jiaye-003/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jiaye-003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Be Determined</title>
+      <link>http://localhost:1313/upcoming/jiaye-004/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jiaye-004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Be Determined</title>
+      <link>http://localhost:1313/upcoming/jiaye-002/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jiaye-002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Be Determined</title>
+      <link>http://localhost:1313/upcoming/jiaye-005/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jiaye-005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Be Determined</title>
+      <link>http://localhost:1313/upcoming/jiaye-006/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jiaye-006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Be Determined</title>
+      <link>http://localhost:1313/upcoming/jiaye-007/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jiaye-007/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Effective Collaborative Learning in Edu-Metaverse: A Study on Learners’ Anxiety, Perception, and Behaviour</title>
@@ -22,6 +70,14 @@
 &lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;, 01 Sep 2024&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>To Be Determined</title>
+      <link>http://localhost:1313/upcoming/jiaye-001/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jiaye-001/</guid>
+      <description></description>
     </item>
     
   </channel>

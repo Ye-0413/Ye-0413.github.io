@@ -57,5 +57,5 @@ slides: ""
 #projects:
 #  - 
 ---
-
+Detailed [Paper]({{< relref "/Upcoming/lu-2024-effective/index.md" >}})
 {{< bilibili BV1AAkqYREEX >}}

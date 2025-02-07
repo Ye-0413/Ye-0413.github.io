@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/paper-presentations/</link>
       <atom:link href="http://localhost:1313/tags/paper-presentations/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper Presentations</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu8220015122150247861.png</url>
       <title>Paper Presentations</title>
@@ -15,31 +15,16 @@
     <item>
       <title>23rd International Conference on Web-based Learning</title>
       <link>http://localhost:1313/event/icwl_2024/</link>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/icwl_2024/</guid>
-      <description>
+      <description>&lt;p&gt;Detailed 
 
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;video controls  &gt;
-  &lt;source src=&#34;https://kcube.comp.polyu.edu.hk/kcube/assets/avi/0080-conf/vid/0080-K-Cube-Conference-240813-MetaCom2024-JiaYe.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-
-&lt;p&gt;
-&lt;/p&gt;
+&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
+  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1AAkqYREEX&amp;page=1&#34;
+  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
+  class=&#34;w-full h-full&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -48,7 +33,9 @@
       <link>http://localhost:1313/event/metacom_2024/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/metacom_2024/</guid>
-      <description>
+      <description>&lt;p&gt;Detailed 
+&lt;/p&gt;
+
 
 
 

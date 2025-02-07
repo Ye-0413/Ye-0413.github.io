@@ -60,7 +60,7 @@ slides: ""
 projects:
   - K-Cube
 ---
-
+Detailed [Paper]({{< relref "/Publication/jia-2024-niv-ta/index.md" >}})
 
 {{< video src="https://kcube.comp.polyu.edu.hk/kcube/assets/avi/0080-conf/vid/0080-K-Cube-Conference-240813-MetaCom2024-JiaYe.mp4" controls="yes" >}}
 
