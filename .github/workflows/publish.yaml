@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 
@@ -63,7 +64,13 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-          name: github-pages # Default name expected by deploy-pages
+          name: github-pages # Explicit artifact name
+
+      - name: Debug Artifacts
+        run: |
+          curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+               -H "Accept: application/vnd.github+json" \
+               https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -73,13 +80,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Debug Artifacts
-        run: |
-          echo "Listing available artifacts:"
-          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Accept: application/vnd.github+json" \
-            https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          artifact-name: github-pages
