@@ -48,6 +48,7 @@ sections:
         folders:
           - upcoming
         exclude_featured: false
+        count: 10
     design:
       view: citation
 
