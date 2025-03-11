@@ -5,7 +5,7 @@
     <link>http://localhost:1313/upcoming/</link>
       <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <description>upcoming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu8220015122150247861.png</url>
       <title>upcoming</title>
@@ -14,8 +14,16 @@
     
     <item>
       <title>To Be Determined</title>
+      <link>http://localhost:1313/upcoming/jiayeikdd-2025/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/jiayeikdd-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Be Determined</title>
       <link>http://localhost:1313/upcoming/jiaye-005/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/upcoming/jiaye-005/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Submitted&lt;/strong&gt;: 28th Feb 2025&lt;/p&gt;
 </description>
@@ -58,14 +66,6 @@
       <link>http://localhost:1313/upcoming/jiaye-007/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/upcoming/jiaye-007/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>To Be Determined</title>
-      <link>http://localhost:1313/upcoming/jiayeikdd-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/upcoming/jiayeikdd-2025/</guid>
       <description></description>
     </item>
     
