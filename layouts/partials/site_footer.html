@@ -1,0 +1,15 @@
+{{ if site.GetPage "terms.md" }}
+<p class="powered-by text-center">
+  {{ with site.GetPage "privacy.md" }}
+    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+  {{ end }}
+  {{ with site.GetPage "terms.md" }}
+    {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+  {{ end }}
+</p>
+{{ end }}
+
+<p class="powered-by text-center">
+  {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+</p> 
