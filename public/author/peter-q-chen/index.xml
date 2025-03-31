@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Q Chen | YE JIA</title>
-    <link>http://localhost:59545/author/peter-q-chen/</link>
-      <atom:link href="http://localhost:59545/author/peter-q-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64462/author/peter-q-chen/</link>
+      <atom:link href="http://localhost:64462/author/peter-q-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Q Chen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:59545/media/icon_hu3778854248838762986.png</url>
+      <url>http://localhost:64462/media/icon_hu_218adf0903457e6c.png</url>
       <title>Peter Q Chen</title>
-      <link>http://localhost:59545/author/peter-q-chen/</link>
+      <link>http://localhost:64462/author/peter-q-chen/</link>
     </image>
     
     <item>
       <title>From classroom to metaverse: a study on gamified constructivist teaching in higher education</title>
-      <link>http://localhost:59545/publication/ng-2023-classroom/</link>
+      <link>http://localhost:64462/publication/ng-2023-classroom/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59545/publication/ng-2023-classroom/</guid>
+      <guid>http://localhost:64462/publication/ng-2023-classroom/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;In the rapidly evolving educational landscape, the integration of metaverse and gamiﬁcation is emerging as a revolutionary approach. This paper presents the Gamiﬁed Constructivist Teaching in the Metaverse (GCTM) framework, aiming to enhance engagement and satisfaction in the computer science education domain. Implemented in two engineering classes using the metaverse platform, the GCTM model, with its unique combination of game world design, rule design, roleplay, mission assignments, and evaluation, demonstrated promising results in enhancing student-lecturer interactions. Feedback indicated a stronger sense of belonging among students in the virtual environment compared to conventional platforms like ZOOM or MS Teams. The ﬁndings underscore the potential of GCTM in transforming the educational experience, suggesting a signiﬁcant stride towards a more interactive and learner-centric approach in the metaverse-driven educational era.&lt;/p&gt;
 </description>

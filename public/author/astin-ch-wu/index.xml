@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astin CH Wu | YE JIA</title>
-    <link>http://localhost:59545/author/astin-ch-wu/</link>
-      <atom:link href="http://localhost:59545/author/astin-ch-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64462/author/astin-ch-wu/</link>
+      <atom:link href="http://localhost:64462/author/astin-ch-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Astin CH Wu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:59545/media/icon_hu3778854248838762986.png</url>
+      <url>http://localhost:64462/media/icon_hu_218adf0903457e6c.png</url>
       <title>Astin CH Wu</title>
-      <link>http://localhost:59545/author/astin-ch-wu/</link>
+      <link>http://localhost:64462/author/astin-ch-wu/</link>
     </image>
     
     <item>
       <title>Towards an edu-metaverse of knowledge: Immersive exploration of university courses</title>
-      <link>http://localhost:59545/publication/sin-2023-towards/</link>
+      <link>http://localhost:64462/publication/sin-2023-towards/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59545/publication/sin-2023-towards/</guid>
+      <guid>http://localhost:64462/publication/sin-2023-towards/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Metaverse, an alternative universe for play, work and interaction, has become a captivating topic for academia and industry in recent times. This opens the question on what a metaverse for education, or edu-metaverse, should look like. It is believed that this metaverse for learning should be grounded by a pedagogical theory. Particularly, we propose a constructivist metaverse learning theory with eight actionable principles to guide the edu-metaverse and its applications. With this metaverse learning theory, we further propose the framework for an edu-metaverse; it is essentially walkable yellow pages that connect knowledge. The core idea is to combine the structure of knowledge graphs and the immersion of virtual reality in order to facilitate association, exploration and engagement in learning. Our current prototype for this edu-metaverse vision, K-Cube VR, is also presented. We have tested K-Cube VR for the introduction of course topics to our students and the results indicate that our edu-metaverse framework benefits students by providing a focused environment and structured learning on the topics of a course, akin to a mind map. Overall, in this paper, we present an edu-metaverse design that is rooted in a constructivist pedagogy that already shows promising results from a pilot user study via our metaverse prototype.&lt;/p&gt;
 </description>
