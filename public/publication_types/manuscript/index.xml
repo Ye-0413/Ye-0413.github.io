@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuscript | YE JIA</title>
-    <link>http://localhost:64462/publication_types/manuscript/</link>
-      <atom:link href="http://localhost:64462/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:51733/publication_types/manuscript/</link>
+      <atom:link href="http://localhost:51733/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuscript</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:64462/media/icon_hu_218adf0903457e6c.png</url>
+      <url>http://localhost:51733/media/icon_hu_218adf0903457e6c.png</url>
       <title>Manuscript</title>
-      <link>http://localhost:64462/publication_types/manuscript/</link>
+      <link>http://localhost:51733/publication_types/manuscript/</link>
     </image>
     
     <item>
       <title>To Be Determined</title>
-      <link>http://localhost:64462/upcoming/jiaye-002/</link>
+      <link>http://localhost:51733/upcoming/jiaye-002/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64462/upcoming/jiaye-002/</guid>
+      <guid>http://localhost:51733/upcoming/jiaye-002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To Be Determined</title>
-      <link>http://localhost:64462/upcoming/jiaye-001/</link>
+      <link>http://localhost:51733/upcoming/jiaye-001/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64462/upcoming/jiaye-001/</guid>
+      <guid>http://localhost:51733/upcoming/jiaye-001/</guid>
       <description></description>
     </item>
     

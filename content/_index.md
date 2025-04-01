@@ -30,16 +30,38 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+
+  - block: collection
+    id: news
     content:
-      title: '📚 Call For Collaboration'
+      title: Recent News
       subtitle: ''
-      text: |-
-        I'm a researcher interested in topics related to Education, virtual reality, and HCI. Please reach out to collaborate 
-
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 0
+      # Filter on criteria
+      filters:
+        author: "Ye Jia"
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
-      columns: '1'
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [1, 0, 0, 0]
 
+ 
   - block: collection
     content:
       title: Upcoming Publications
@@ -73,35 +95,7 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: publication, Upcoming, event
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 2
-      # Filter on criteria
-      filters:
-        author: "Ye Jia"
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+
   #- block: cta-card
    # demo: false # Only display this section in the Hugo Blox Builder demo site
    # content:
