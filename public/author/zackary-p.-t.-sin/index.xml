@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zackary P. T. Sin | YE JIA</title>
-    <link>http://localhost:1313/author/zackary-p.-t.-sin/</link>
-      <atom:link href="http://localhost:1313/author/zackary-p.-t.-sin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:57753/author/zackary-p.-t.-sin/</link>
+      <atom:link href="http://localhost:57753/author/zackary-p.-t.-sin/index.xml" rel="self" type="application/rss+xml" />
     <description>Zackary P. T. Sin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_218adf0903457e6c.png</url>
+      <url>http://localhost:57753/media/icon_hu_218adf0903457e6c.png</url>
       <title>Zackary P. T. Sin</title>
-      <link>http://localhost:1313/author/zackary-p.-t.-sin/</link>
+      <link>http://localhost:57753/author/zackary-p.-t.-sin/</link>
     </image>
     
     <item>
       <title>Traceable teleportation: Improving spatial learning in virtual locomotion</title>
-      <link>http://localhost:1313/publication/jia-2024-undo-redo/</link>
+      <link>http://localhost:57753/publication/jia-2024-undo-redo/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jia-2024-undo-redo/</guid>
+      <guid>http://localhost:57753/publication/jia-2024-undo-redo/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Submitted, 02 Jan 2024&lt;/li&gt;
 &lt;li&gt;Revision 1, 18 Apr 2024&lt;/li&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE</title>
-      <link>http://localhost:1313/publication/jia-2024-niv-ta/</link>
+      <link>http://localhost:57753/publication/jia-2024-niv-ta/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jia-2024-niv-ta/</guid>
+      <guid>http://localhost:57753/publication/jia-2024-niv-ta/</guid>
       <description></description>
     </item>
     

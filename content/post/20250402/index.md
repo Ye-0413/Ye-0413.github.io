@@ -6,5 +6,5 @@ date: "2025-04-02"
 publication_types: ["1"]
 ---
 
-[Read more about our related paper](/upcoming/ICBL_2025/)
+[Read more about our related paper](/upcoming/icbl_2025/)
 

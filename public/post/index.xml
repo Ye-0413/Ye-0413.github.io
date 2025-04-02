@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | YE JIA</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:57753/post/</link>
+      <atom:link href="http://localhost:57753/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_218adf0903457e6c.png</url>
+      <url>http://localhost:57753/media/icon_hu_218adf0903457e6c.png</url>
       <title>Blog</title>
-      <link>http://localhost:1313/post/</link>
+      <link>http://localhost:57753/post/</link>
     </image>
     
     <item>
-      <title>Our manuscript &#39;Enhance Learner Engagement Through Experiential Learning in a Gamified Simulation: a Longitudinal Study&#39; has been Accepted by the 18th International Conference on Blended Learning (ICBL 2025)</title>
-      <link>http://localhost:1313/post/20250402/</link>
+      <title>🎉Our manuscript &#39;Enhance Learner Engagement Through Experiential Learning in a Gamified Simulation: a Longitudinal Study&#39; has been Accepted by the 18th International Conference on Blended Learning (ICBL 2025)</title>
+      <link>http://localhost:57753/post/20250402/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20250402/</guid>
+      <guid>http://localhost:57753/post/20250402/</guid>
       <description>&lt;p&gt;
 &lt;/p&gt;
 </description>
@@ -24,17 +24,17 @@
     
     <item>
       <title>👏One manuscript submitted to The ACM Symposium on User Interface Software and Technology (UIST) 2025</title>
-      <link>http://localhost:1313/post/20250401/</link>
+      <link>http://localhost:57753/post/20250401/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20250401/</guid>
+      <guid>http://localhost:57753/post/20250401/</guid>
       <description></description>
     </item>
     
     <item>
       <title>👏One manuscript submitted to IEEE Conference on Metaverse</title>
-      <link>http://localhost:1313/post/20250331/</link>
+      <link>http://localhost:57753/post/20250331/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20250331/</guid>
+      <guid>http://localhost:57753/post/20250331/</guid>
       <description>&lt;p&gt;
 &lt;/p&gt;
 </description>

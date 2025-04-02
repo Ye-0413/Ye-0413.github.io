@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qing Li | YE JIA</title>
-    <link>http://localhost:1313/author/qing-li/</link>
-      <atom:link href="http://localhost:1313/author/qing-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:57753/author/qing-li/</link>
+      <atom:link href="http://localhost:57753/author/qing-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Qing Li</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_218adf0903457e6c.png</url>
+      <url>http://localhost:57753/media/icon_hu_218adf0903457e6c.png</url>
       <title>Qing Li</title>
-      <link>http://localhost:1313/author/qing-li/</link>
+      <link>http://localhost:57753/author/qing-li/</link>
     </image>
     
     <item>
       <title>Enhance Learner Engagement Through Experiential Learning in a Gamified Simulation: a Longitudinal Study</title>
-      <link>http://localhost:1313/upcoming/icbl_2025/</link>
+      <link>http://localhost:57753/upcoming/icbl_2025/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/upcoming/icbl_2025/</guid>
+      <guid>http://localhost:57753/upcoming/icbl_2025/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Submitted&lt;/strong&gt;: 28th Feb 2025&lt;br&gt;
 &lt;strong&gt;Accepted&lt;/strong&gt;: 2nd April 2025&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Traceable teleportation: Improving spatial learning in virtual locomotion</title>
-      <link>http://localhost:1313/publication/jia-2024-undo-redo/</link>
+      <link>http://localhost:57753/publication/jia-2024-undo-redo/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jia-2024-undo-redo/</guid>
+      <guid>http://localhost:57753/publication/jia-2024-undo-redo/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Submitted, 02 Jan 2024&lt;/li&gt;
 &lt;li&gt;Revision 1, 18 Apr 2024&lt;/li&gt;
@@ -38,17 +38,17 @@
     
     <item>
       <title>NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE</title>
-      <link>http://localhost:1313/publication/jia-2024-niv-ta/</link>
+      <link>http://localhost:57753/publication/jia-2024-niv-ta/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jia-2024-niv-ta/</guid>
+      <guid>http://localhost:57753/publication/jia-2024-niv-ta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge-Graph-Driven Mind Mapping for Immersive Collaborative Learning: A Pilot Study in Edu-Metaverse</title>
-      <link>http://localhost:1313/publication/jia-2024-knowledge/</link>
+      <link>http://localhost:57753/publication/jia-2024-knowledge/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jia-2024-knowledge/</guid>
+      <guid>http://localhost:57753/publication/jia-2024-knowledge/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;One of the promises of edu-metaverse is its ability to provide a virtual environment that enables us to engage in learning activities that are similar to or on par with reality. The digital enhancements introduced in a virtual environment contribute to our increased expectations of novel learning experiences. However, despite its promising outcomes, there appears to be limited adoption of the edu-metaverse for practical learning at this time. We believe this can be attributed to the fact that there is a lack of investigation into learners’ behavior given a social learning environment. This lack of investigation is critical, as without behavioral insight, it hinders the development of education material and the direction of an edu-metaverse. Upon completing our work with the pilot user studies, we provide the following insights: 1) compared to Zoom, a typical video conferencing and remote collaboration platform, learners in the edu-metaverse demonstrate heightened involvement in learning activities, particularly when drawing mind mapping aided by the embedded knowledge graph, and this copresence signiﬁcantly boosts learner engagement and collaborative contribution to the learning tasks; and 2) the interaction and learning activity design within the edu-metaverse, especially concerning the use of MM.&lt;/p&gt;
 </description>
@@ -56,9 +56,9 @@
     
     <item>
       <title>illumotion: An Optical-illusion-based VR Locomotion Technique for Long-Distance 3D Movement</title>
-      <link>http://localhost:1313/publication/sin-2024-illumotion/</link>
+      <link>http://localhost:57753/publication/sin-2024-illumotion/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sin-2024-illumotion/</guid>
+      <guid>http://localhost:57753/publication/sin-2024-illumotion/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Locomotion has a marked impact on user experience in VR, but currently, common to-go techniques such as steering and teleportation have their limitations. Particularly, steering is prone to cybersickness, while teleportation trades presence for mitigating cybersickness. Inspired by how we manipulate a picture on a mobile phone, we propose illumotion, an optical-illusion-based method that, we believe, can provide an alternative to these two typical techniques. Instead of zooming in a picture by pinching two ﬁngers, we can move forward by “zooming” toward part of the 3D virtual scene with pinched hands. Not only is the proposed technique easy to use, it also seems to minimize cybersickness to some degree.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;illumotion&lt;/em&gt; relies on the manipulation of optics; as such, it requires solving motion parameters in screen space and a model of how we perceive depth. To evaluate it, a comprehensive user study with 66 users was conducted. Results show that, compared with either teleportation, steering or both, illumotion has better performance, presence, usability, user experience and cybersickness alleviation. We believe the result is a clear indication that our novel opticallydriven method is a promising candidate for generalized locomotion.&lt;/p&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Towards Effective Collaborative Learning in Edu-Metaverse: A Study on Learners’ Anxiety, Perception, and Behaviour</title>
-      <link>http://localhost:1313/upcoming/lu-2024-effective/</link>
+      <link>http://localhost:57753/upcoming/lu-2024-effective/</link>
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/upcoming/lu-2024-effective/</guid>
+      <guid>http://localhost:57753/upcoming/lu-2024-effective/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Submitted 15 Aug 2024&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;, 01 Sep 2024&lt;/li&gt;
@@ -96,9 +96,9 @@ in Edu-Metaverse.&lt;/p&gt;
     
     <item>
       <title>From classroom to metaverse: a study on gamified constructivist teaching in higher education</title>
-      <link>http://localhost:1313/publication/ng-2023-classroom/</link>
+      <link>http://localhost:57753/publication/ng-2023-classroom/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ng-2023-classroom/</guid>
+      <guid>http://localhost:57753/publication/ng-2023-classroom/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;In the rapidly evolving educational landscape, the integration of metaverse and gamiﬁcation is emerging as a revolutionary approach. This paper presents the Gamiﬁed Constructivist Teaching in the Metaverse (GCTM) framework, aiming to enhance engagement and satisfaction in the computer science education domain. Implemented in two engineering classes using the metaverse platform, the GCTM model, with its unique combination of game world design, rule design, roleplay, mission assignments, and evaluation, demonstrated promising results in enhancing student-lecturer interactions. Feedback indicated a stronger sense of belonging among students in the virtual environment compared to conventional platforms like ZOOM or MS Teams. The ﬁndings underscore the potential of GCTM in transforming the educational experience, suggesting a signiﬁcant stride towards a more interactive and learner-centric approach in the metaverse-driven educational era.&lt;/p&gt;
 </description>
@@ -106,9 +106,9 @@ in Edu-Metaverse.&lt;/p&gt;
     
     <item>
       <title>Towards an edu-metaverse of knowledge: Immersive exploration of university courses</title>
-      <link>http://localhost:1313/publication/sin-2023-towards/</link>
+      <link>http://localhost:57753/publication/sin-2023-towards/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sin-2023-towards/</guid>
+      <guid>http://localhost:57753/publication/sin-2023-towards/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Metaverse, an alternative universe for play, work and interaction, has become a captivating topic for academia and industry in recent times. This opens the question on what a metaverse for education, or edu-metaverse, should look like. It is believed that this metaverse for learning should be grounded by a pedagogical theory. Particularly, we propose a constructivist metaverse learning theory with eight actionable principles to guide the edu-metaverse and its applications. With this metaverse learning theory, we further propose the framework for an edu-metaverse; it is essentially walkable yellow pages that connect knowledge. The core idea is to combine the structure of knowledge graphs and the immersion of virtual reality in order to facilitate association, exploration and engagement in learning. Our current prototype for this edu-metaverse vision, K-Cube VR, is also presented. We have tested K-Cube VR for the introduction of course topics to our students and the results indicate that our edu-metaverse framework benefits students by providing a focused environment and structured learning on the topics of a course, akin to a mind map. Overall, in this paper, we present an edu-metaverse design that is rooted in a constructivist pedagogy that already shows promising results from a pilot user study via our metaverse prototype.&lt;/p&gt;
 </description>
