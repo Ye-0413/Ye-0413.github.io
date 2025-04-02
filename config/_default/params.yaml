@@ -59,3 +59,11 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  comments:
+    enable: true
+    provider: giscus
+    giscus:
+      repo: "Ye-0413/Ye-0413.github.io"  # Your GitHub repository
+      repo_id: ""  # We'll need to get this
+      category: "Comments"  # The category for discussions
+      mapping: "pathname"  # How to map discussions to pages

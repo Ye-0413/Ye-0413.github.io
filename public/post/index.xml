@@ -5,12 +5,30 @@
     <link>http://localhost:51733/post/</link>
       <atom:link href="http://localhost:51733/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:51733/media/icon_hu_218adf0903457e6c.png</url>
       <title>Blog</title>
       <link>http://localhost:51733/post/</link>
     </image>
+    
+    <item>
+      <title>👏One manuscript submitted to The ACM Symposium on User Interface Software and Technology (UIST) 2025</title>
+      <link>http://localhost:51733/post/20250401/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51733/post/20250401/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>👏One manuscript submitted to IEEE Conference on Metaverse</title>
+      <link>http://localhost:51733/post/20250331/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51733/post/20250331/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
