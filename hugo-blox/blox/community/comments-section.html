@@ -1,19 +1,16 @@
-{{ if site.GetPage "terms.md" }}
-<p class="powered-by text-center">
-  {{ with site.GetPage "privacy.md" }}
-    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-  {{ end }}
-  {{ with site.GetPage "terms.md" }}
-    {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
-    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-  {{ end }}
-</p>
-{{ end }}
+{{ $page := .page }}
+{{ $block := .block }}
 
-{{ if .Site.Params.features.comments.enable }}
-  {{ if eq .Site.Params.features.comments.provider "giscus" }}
-    <div class="comments-section mt-8">
-      <h2 class="text-2xl font-bold mb-4 text-center">Comments</h2>
+{{ $widget_args := dict }}
+{{ $widget_args = merge $widget_args (dict "page" $page "block" $block) }}
+
+<div class="comments-section">
+  {{ with $block.content.title }}
+    <h2 class="text-2xl font-bold mb-4">{{ . }}</h2>
+  {{ end }}
+  
+  {{ if .Site.Params.features.comments.enable }}
+    {{ if eq .Site.Params.features.comments.provider "giscus" }}
       <script src="https://giscus.app/client.js"
               data-repo="{{ .Site.Params.features.comments.giscus.repo }}"
               data-repo-id="{{ .Site.Params.features.comments.giscus.repo_id }}"
@@ -29,10 +26,6 @@
               crossorigin="anonymous"
               async>
       </script>
-    </div>
+    {{ end }}
   {{ end }}
-{{ end }}
-
-<p class="powered-by text-center mt-8">
-  © {{ now.Year }} Ye Jia. All rights reserved.
-</p> 
+</div> 

@@ -96,17 +96,17 @@ sections:
       view: article-grid
       columns: 1
 
-  #- block: cta-card
-   # demo: false # Only display this section in the Hugo Blox Builder demo site
-   # content:
-    #  title: 👉 Build your own academic website like this
-   #   text: |-
+#- block: cta-card
+ # demo: false # Only display this section in the Hugo Blox Builder demo site
+ # content:
+  #  title: 👉 Build your own academic website like this
+ #   text: |-
       
-   #     From landing pages, second brains, and courses to academic resumés, conferences, and tech #blogs.
-  #   button:
-   #     text: Get Started
-  #      url: https://hugoblox.com/templates/
- #  design:
+ #     From landing pages, second brains, and courses to academic resumés, conferences, and tech #blogs.
+#  button:
+ #     text: Get Started
+ #      url: https://hugoblox.com/templates/
+#  design:
   #    card:
    #     # Card background color (CSS class)
    #     css_class: "bg-primary-700"

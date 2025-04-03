@@ -1,11 +1,3 @@
 User-agent: *
-Allow: /
-Allow: /post/
-Allow: /about/
-Allow: /contact/
-Disallow: /admin/
-Disallow: /private/
-Disallow: /api/
-Disallow: /assets/js/
-Disallow: /assets/css/
-Crawl-delay: 10 
+
+Sitemap: http://localhost:1313/sitemap.xml
