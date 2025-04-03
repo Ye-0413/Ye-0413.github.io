@@ -63,7 +63,14 @@ features:
     enable: true
     provider: giscus
     giscus:
-      repo: "Ye-0413/Ye-0413.github.io"  # Your GitHub repository
-      repo_id: ""  # We'll need to get this
-      category: "Comments"  # The category for discussions
-      mapping: "pathname"  # How to map discussions to pages
+      repo: "Ye-0413/Ye-0413.github.io"
+      repo_id: "R_kgDOMlFBaQ"
+      category: "General"
+      category_id: "DIC_kwDOMlFBac4CowMG"
+      mapping: "pathname"
+      strict: "0"
+      reactions_enabled: "1"
+      emit_metadata: "0"
+      input_position: "bottom"
+      theme: "preferred_color_scheme"
+      lang: "en"

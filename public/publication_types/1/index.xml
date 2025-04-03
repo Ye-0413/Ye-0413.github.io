@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | YE JIA</title>
-    <link>http://localhost:58568/publication_types/1/</link>
-      <atom:link href="http://localhost:58568/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/1/</link>
+      <atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:58568/media/icon_hu_218adf0903457e6c.png</url>
+      <url>http://localhost:1313/media/icon_hu_218adf0903457e6c.png</url>
       <title>1</title>
-      <link>http://localhost:58568/publication_types/1/</link>
+      <link>http://localhost:1313/publication_types/1/</link>
     </image>
     
     <item>
-      <title>🎉Our manuscript A scoping review on the role of virtual walking intervention in enhancing wellness&#39; has been Accepted by the npj Digital Medicine (Q1)</title>
-      <link>http://localhost:58568/post/20250403/</link>
+      <title>🎉Our manuscript &#39;A scoping review on the role of virtual walking intervention in enhancing wellness&#39; has been Accepted by the npj Digital Medicine (Q1)</title>
+      <link>http://localhost:1313/post/20250403/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/post/20250403/</guid>
+      <guid>http://localhost:1313/post/20250403/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉Our manuscript &#39;Enhance Learner Engagement Through Experiential Learning in a Gamified Simulation: a Longitudinal Study&#39; has been Accepted by the 18th International Conference on Blended Learning (ICBL 2025)</title>
-      <link>http://localhost:58568/post/20250402/</link>
+      <link>http://localhost:1313/post/20250402/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/post/20250402/</guid>
+      <guid>http://localhost:1313/post/20250402/</guid>
       <description>&lt;p&gt;
 &lt;/p&gt;
 </description>

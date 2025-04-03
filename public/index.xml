@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YE JIA</title>
-    <link>http://localhost:58568/</link>
-      <atom:link href="http://localhost:58568/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>YE JIA</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:58568/media/icon_hu_218adf0903457e6c.png</url>
+      <url>http://localhost:1313/media/icon_hu_218adf0903457e6c.png</url>
       <title>YE JIA</title>
-      <link>http://localhost:58568/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>To Be Determined</title>
-      <link>http://localhost:58568/upcoming/ieee_metaverse/</link>
+      <link>http://localhost:1313/upcoming/ieee_metaverse/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/upcoming/ieee_metaverse/</guid>
+      <guid>http://localhost:1313/upcoming/ieee_metaverse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HiBench: Benchmarking LLMs Capability on Hierarchical Structure Reasoning</title>
-      <link>http://localhost:58568/upcoming/jiayeikdd-2025/</link>
+      <link>http://localhost:1313/upcoming/jiayeikdd-2025/</link>
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/upcoming/jiayeikdd-2025/</guid>
+      <guid>http://localhost:1313/upcoming/jiayeikdd-2025/</guid>
       <description>&lt;p&gt;Submitted to KDD 2025,&lt;br&gt;
 Get Preprint at: 
 &lt;/p&gt;
@@ -33,9 +33,9 @@ Get Preprint at:
     
     <item>
       <title>Enhance Learner Engagement Through Experiential Learning in a Gamified Simulation: a Longitudinal Study</title>
-      <link>http://localhost:58568/upcoming/icbl_fittslaw/</link>
+      <link>http://localhost:1313/upcoming/icbl_fittslaw/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/upcoming/icbl_fittslaw/</guid>
+      <guid>http://localhost:1313/upcoming/icbl_fittslaw/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Submitted&lt;/strong&gt;: 28th Feb 2025&lt;br&gt;
 &lt;strong&gt;Accepted&lt;/strong&gt;: 2nd April 2025&lt;/p&gt;
 </description>
@@ -43,17 +43,17 @@ Get Preprint at:
     
     <item>
       <title>🎉Our manuscript &#39;A scoping review on the role of virtual walking intervention in enhancing wellness&#39; has been Accepted by the npj Digital Medicine (Q1)</title>
-      <link>http://localhost:58568/post/20250403/</link>
+      <link>http://localhost:1313/post/20250403/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/post/20250403/</guid>
+      <guid>http://localhost:1313/post/20250403/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉Our manuscript &#39;Enhance Learner Engagement Through Experiential Learning in a Gamified Simulation: a Longitudinal Study&#39; has been Accepted by the 18th International Conference on Blended Learning (ICBL 2025)</title>
-      <link>http://localhost:58568/post/20250402/</link>
+      <link>http://localhost:1313/post/20250402/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/post/20250402/</guid>
+      <guid>http://localhost:1313/post/20250402/</guid>
       <description>&lt;p&gt;
 &lt;/p&gt;
 </description>
@@ -61,17 +61,17 @@ Get Preprint at:
     
     <item>
       <title>👏One manuscript submitted to The ACM Symposium on User Interface Software and Technology (UIST) 2025</title>
-      <link>http://localhost:58568/post/20250401/</link>
+      <link>http://localhost:1313/post/20250401/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/post/20250401/</guid>
+      <guid>http://localhost:1313/post/20250401/</guid>
       <description></description>
     </item>
     
     <item>
       <title>👏One manuscript submitted to IEEE Conference on Metaverse</title>
-      <link>http://localhost:58568/post/20250331/</link>
+      <link>http://localhost:1313/post/20250331/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/post/20250331/</guid>
+      <guid>http://localhost:1313/post/20250331/</guid>
       <description>&lt;p&gt;
 &lt;/p&gt;
 </description>
@@ -79,41 +79,41 @@ Get Preprint at:
     
     <item>
       <title>To Be Determined</title>
-      <link>http://localhost:58568/upcoming/jiaye-002/</link>
+      <link>http://localhost:1313/upcoming/jiaye-002/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/upcoming/jiaye-002/</guid>
+      <guid>http://localhost:1313/upcoming/jiaye-002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To Be Determined</title>
-      <link>http://localhost:58568/upcoming/jiaye-003/</link>
+      <link>http://localhost:1313/upcoming/jiaye-003/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/upcoming/jiaye-003/</guid>
+      <guid>http://localhost:1313/upcoming/jiaye-003/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To Be Determined</title>
-      <link>http://localhost:58568/upcoming/jiaye-004/</link>
+      <link>http://localhost:1313/upcoming/jiaye-004/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/upcoming/jiaye-004/</guid>
+      <guid>http://localhost:1313/upcoming/jiaye-004/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To Be Determined</title>
-      <link>http://localhost:58568/upcoming/jiaye-007/</link>
+      <link>http://localhost:1313/upcoming/jiaye-007/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/upcoming/jiaye-007/</guid>
+      <guid>http://localhost:1313/upcoming/jiaye-007/</guid>
       <description></description>
     </item>
     
     <item>
       <title>23rd International Conference on Web-based Learning</title>
-      <link>http://localhost:58568/event/icwl_2024/</link>
+      <link>http://localhost:1313/event/icwl_2024/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/event/icwl_2024/</guid>
+      <guid>http://localhost:1313/event/icwl_2024/</guid>
       <description>&lt;p&gt;Detailed 
 
 &lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
@@ -127,9 +127,9 @@ Get Preprint at:
     
     <item>
       <title>Traceable teleportation: Improving spatial learning in virtual locomotion</title>
-      <link>http://localhost:58568/publication/jia-2024-undo-redo/</link>
+      <link>http://localhost:1313/publication/jia-2024-undo-redo/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/publication/jia-2024-undo-redo/</guid>
+      <guid>http://localhost:1313/publication/jia-2024-undo-redo/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Submitted, 02 Jan 2024&lt;/li&gt;
 &lt;li&gt;Revision 1, 18 Apr 2024&lt;/li&gt;
@@ -141,9 +141,9 @@ Get Preprint at:
     
     <item>
       <title>K-Cube</title>
-      <link>http://localhost:58568/project/k-cube/</link>
+      <link>http://localhost:1313/project/k-cube/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/project/k-cube/</guid>
+      <guid>http://localhost:1313/project/k-cube/</guid>
       <description>&lt;h1 id=&#34;about-k-cube-ai&#34;&gt;About K-Cube AI&lt;/h1&gt;
 &lt;p&gt;AI knowledge graphs in immersive virtual reality environments provide the opportunity to enhance the edu-metaverse for interactive teaching and learning. This is an innovative approach to active learning that combines advanced metaverse technology with educational content. The K-Cube project is the first prototype of its kind. It combines multiple modes of 3D, immersive, interactive representations of knowledge points, where concepts and their interrelationships are visually depicted. The K-Cube immersive knowledge graphs encompass various academic subjects, providing students with a comprehensive understanding of topics. In our current CAVE virtual reality environment, students can interact with knowledge graphs guided by an AI virtual assitant and explore relationships between concepts. This interaction promotes knowledge retention, active learning, and critical thinking. It also allows for a personalized learning experience, as students can navigate through the knowledge graph and create their own knowledge bubbles. The K-Cube immersive AI knowledge graph aims to revolutionize immersive teaching and learning by making complex information accessible and engaging.
 
@@ -195,9 +195,9 @@ The development of the K-Cube AI started in 2021 as a strategic initiative proje
     
     <item>
       <title>2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications</title>
-      <link>http://localhost:58568/event/metacom_2024/</link>
+      <link>http://localhost:1313/event/metacom_2024/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/event/metacom_2024/</guid>
+      <guid>http://localhost:1313/event/metacom_2024/</guid>
       <description>&lt;p&gt;Detailed 
 &lt;/p&gt;
 
@@ -226,17 +226,17 @@ The development of the K-Cube AI started in 2021 as a strategic initiative proje
     
     <item>
       <title>NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE</title>
-      <link>http://localhost:58568/publication/jia-2024-niv-ta/</link>
+      <link>http://localhost:1313/publication/jia-2024-niv-ta/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/publication/jia-2024-niv-ta/</guid>
+      <guid>http://localhost:1313/publication/jia-2024-niv-ta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge-Graph-Driven Mind Mapping for Immersive Collaborative Learning: A Pilot Study in Edu-Metaverse</title>
-      <link>http://localhost:58568/publication/jia-2024-knowledge/</link>
+      <link>http://localhost:1313/publication/jia-2024-knowledge/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/publication/jia-2024-knowledge/</guid>
+      <guid>http://localhost:1313/publication/jia-2024-knowledge/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;One of the promises of edu-metaverse is its ability to provide a virtual environment that enables us to engage in learning activities that are similar to or on par with reality. The digital enhancements introduced in a virtual environment contribute to our increased expectations of novel learning experiences. However, despite its promising outcomes, there appears to be limited adoption of the edu-metaverse for practical learning at this time. We believe this can be attributed to the fact that there is a lack of investigation into learners’ behavior given a social learning environment. This lack of investigation is critical, as without behavioral insight, it hinders the development of education material and the direction of an edu-metaverse. Upon completing our work with the pilot user studies, we provide the following insights: 1) compared to Zoom, a typical video conferencing and remote collaboration platform, learners in the edu-metaverse demonstrate heightened involvement in learning activities, particularly when drawing mind mapping aided by the embedded knowledge graph, and this copresence signiﬁcantly boosts learner engagement and collaborative contribution to the learning tasks; and 2) the interaction and learning activity design within the edu-metaverse, especially concerning the use of MM.&lt;/p&gt;
 </description>
@@ -244,17 +244,17 @@ The development of the K-Cube AI started in 2021 as a strategic initiative proje
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:58568/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>illumotion: An Optical-illusion-based VR Locomotion Technique for Long-Distance 3D Movement</title>
-      <link>http://localhost:58568/publication/sin-2024-illumotion/</link>
+      <link>http://localhost:1313/publication/sin-2024-illumotion/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/publication/sin-2024-illumotion/</guid>
+      <guid>http://localhost:1313/publication/sin-2024-illumotion/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Locomotion has a marked impact on user experience in VR, but currently, common to-go techniques such as steering and teleportation have their limitations. Particularly, steering is prone to cybersickness, while teleportation trades presence for mitigating cybersickness. Inspired by how we manipulate a picture on a mobile phone, we propose illumotion, an optical-illusion-based method that, we believe, can provide an alternative to these two typical techniques. Instead of zooming in a picture by pinching two ﬁngers, we can move forward by “zooming” toward part of the 3D virtual scene with pinched hands. Not only is the proposed technique easy to use, it also seems to minimize cybersickness to some degree.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;illumotion&lt;/em&gt; relies on the manipulation of optics; as such, it requires solving motion parameters in screen space and a model of how we perceive depth. To evaluate it, a comprehensive user study with 66 users was conducted. Results show that, compared with either teleportation, steering or both, illumotion has better performance, presence, usability, user experience and cybersickness alleviation. We believe the result is a clear indication that our novel opticallydriven method is a promising candidate for generalized locomotion.&lt;/p&gt;
@@ -263,9 +263,9 @@ The development of the K-Cube AI started in 2021 as a strategic initiative proje
     
     <item>
       <title>Towards Effective Collaborative Learning in Edu-Metaverse: A Study on Learners’ Anxiety, Perception, and Behaviour</title>
-      <link>http://localhost:58568/upcoming/lu-2024-effective/</link>
+      <link>http://localhost:1313/upcoming/lu-2024-effective/</link>
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/upcoming/lu-2024-effective/</guid>
+      <guid>http://localhost:1313/upcoming/lu-2024-effective/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Submitted 15 Aug 2024&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;, 01 Sep 2024&lt;/li&gt;
@@ -292,25 +292,25 @@ in Edu-Metaverse.&lt;/p&gt;
     
     <item>
       <title>To Be Determined</title>
-      <link>http://localhost:58568/upcoming/jiaye-001/</link>
+      <link>http://localhost:1313/upcoming/jiaye-001/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/upcoming/jiaye-001/</guid>
+      <guid>http://localhost:1313/upcoming/jiaye-001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:58568/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:58568/teaching/js/</link>
+      <link>http://localhost:1313/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/teaching/js/</guid>
+      <guid>http://localhost:1313/teaching/js/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -355,7 +355,7 @@ in Edu-Metaverse.&lt;/p&gt;
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:58568/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -432,9 +432,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:58568/teaching/python/</link>
+      <link>http://localhost:1313/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/teaching/python/</guid>
+      <guid>http://localhost:1313/teaching/python/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -479,7 +479,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:58568/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -556,9 +556,9 @@ data.head()
     
     <item>
       <title>From classroom to metaverse: a study on gamified constructivist teaching in higher education</title>
-      <link>http://localhost:58568/publication/ng-2023-classroom/</link>
+      <link>http://localhost:1313/publication/ng-2023-classroom/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/publication/ng-2023-classroom/</guid>
+      <guid>http://localhost:1313/publication/ng-2023-classroom/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;In the rapidly evolving educational landscape, the integration of metaverse and gamiﬁcation is emerging as a revolutionary approach. This paper presents the Gamiﬁed Constructivist Teaching in the Metaverse (GCTM) framework, aiming to enhance engagement and satisfaction in the computer science education domain. Implemented in two engineering classes using the metaverse platform, the GCTM model, with its unique combination of game world design, rule design, roleplay, mission assignments, and evaluation, demonstrated promising results in enhancing student-lecturer interactions. Feedback indicated a stronger sense of belonging among students in the virtual environment compared to conventional platforms like ZOOM or MS Teams. The ﬁndings underscore the potential of GCTM in transforming the educational experience, suggesting a signiﬁcant stride towards a more interactive and learner-centric approach in the metaverse-driven educational era.&lt;/p&gt;
 </description>
@@ -566,9 +566,9 @@ data.head()
     
     <item>
       <title>Signal-to-image: Rolling bearing fault diagnosis using ResNet family deep-learning models</title>
-      <link>http://localhost:58568/publication/wu-2023-signal/</link>
+      <link>http://localhost:1313/publication/wu-2023-signal/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/publication/wu-2023-signal/</guid>
+      <guid>http://localhost:1313/publication/wu-2023-signal/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Rolling element bearings (REBs) are the most frequent cause of machine breakdowns. Traditional methods for fault diagnosis in rolling bearings rely on feature extraction and signal processing techniques. However, these methods can be affected by the complexity of the underlying patterns and the need for expert knowledge during signal analysis. This paper proposes a novel signalto-image method in which the raw signal data are transformed into 2D images using continuous wavelet transform (CWT). This transformation enhances the features extracted from the raw data, allowing for further analysis and interpretation. Transformed images of both normal and faulty rolling bearings from the Case Western Reserve University (CWRU) dataset were used with deeplearning models from the ResNet family. They can automatically learn and identify patterns in raw vibration signals after continuous wavelet transform is used, eliminating the need for manual feature extraction. To further improve the training results, squeeze-and-excitation networks (SENets) were added to improve the process. By comparing results obtained from several models, we found that SE-ResNet152 has the best performance for REB fault diagnosis.&lt;/p&gt;
 </description>
@@ -576,9 +576,9 @@ data.head()
     
     <item>
       <title>Towards an edu-metaverse of knowledge: Immersive exploration of university courses</title>
-      <link>http://localhost:58568/publication/sin-2023-towards/</link>
+      <link>http://localhost:1313/publication/sin-2023-towards/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/publication/sin-2023-towards/</guid>
+      <guid>http://localhost:1313/publication/sin-2023-towards/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Metaverse, an alternative universe for play, work and interaction, has become a captivating topic for academia and industry in recent times. This opens the question on what a metaverse for education, or edu-metaverse, should look like. It is believed that this metaverse for learning should be grounded by a pedagogical theory. Particularly, we propose a constructivist metaverse learning theory with eight actionable principles to guide the edu-metaverse and its applications. With this metaverse learning theory, we further propose the framework for an edu-metaverse; it is essentially walkable yellow pages that connect knowledge. The core idea is to combine the structure of knowledge graphs and the immersion of virtual reality in order to facilitate association, exploration and engagement in learning. Our current prototype for this edu-metaverse vision, K-Cube VR, is also presented. We have tested K-Cube VR for the introduction of course topics to our students and the results indicate that our edu-metaverse framework benefits students by providing a focused environment and structured learning on the topics of a course, akin to a mind map. Overall, in this paper, we present an edu-metaverse design that is rooted in a constructivist pedagogy that already shows promising results from a pilot user study via our metaverse prototype.&lt;/p&gt;
 </description>
@@ -586,9 +586,9 @@ data.head()
     
     <item>
       <title>Design of Intelligent Multi-layer Three-dimensional Bicycle Parking Garage</title>
-      <link>http://localhost:58568/publication/wang-2020-design/</link>
+      <link>http://localhost:1313/publication/wang-2020-design/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58568/publication/wang-2020-design/</guid>
+      <guid>http://localhost:1313/publication/wang-2020-design/</guid>
       <description></description>
     </item>
     
