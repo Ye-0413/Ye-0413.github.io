@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guolai Yang | YE JIA</title>
-    <link>http://localhost:57753/author/guolai-yang/</link>
-      <atom:link href="http://localhost:57753/author/guolai-yang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:58568/author/guolai-yang/</link>
+      <atom:link href="http://localhost:58568/author/guolai-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Guolai Yang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:57753/media/icon_hu_218adf0903457e6c.png</url>
+      <url>http://localhost:58568/media/icon_hu_218adf0903457e6c.png</url>
       <title>Guolai Yang</title>
-      <link>http://localhost:57753/author/guolai-yang/</link>
+      <link>http://localhost:58568/author/guolai-yang/</link>
     </image>
     
     <item>
       <title>Signal-to-image: Rolling bearing fault diagnosis using ResNet family deep-learning models</title>
-      <link>http://localhost:57753/publication/wu-2023-signal/</link>
+      <link>http://localhost:58568/publication/wu-2023-signal/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57753/publication/wu-2023-signal/</guid>
+      <guid>http://localhost:58568/publication/wu-2023-signal/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Rolling element bearings (REBs) are the most frequent cause of machine breakdowns. Traditional methods for fault diagnosis in rolling bearings rely on feature extraction and signal processing techniques. However, these methods can be affected by the complexity of the underlying patterns and the need for expert knowledge during signal analysis. This paper proposes a novel signalto-image method in which the raw signal data are transformed into 2D images using continuous wavelet transform (CWT). This transformation enhances the features extracted from the raw data, allowing for further analysis and interpretation. Transformed images of both normal and faulty rolling bearings from the Case Western Reserve University (CWRU) dataset were used with deeplearning models from the ResNet family. They can automatically learn and identify patterns in raw vibration signals after continuous wavelet transform is used, eliminating the need for manual feature extraction. To further improve the training results, squeeze-and-excitation networks (SENets) were added to improve the process. By comparing results obtained from several models, we found that SE-ResNet152 has the best performance for REB fault diagnosis.&lt;/p&gt;
 </description>

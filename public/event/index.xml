@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | YE JIA</title>
-    <link>http://localhost:57753/event/</link>
-      <atom:link href="http://localhost:57753/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:58568/event/</link>
+      <atom:link href="http://localhost:58568/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:57753/media/icon_hu_218adf0903457e6c.png</url>
+      <url>http://localhost:58568/media/icon_hu_218adf0903457e6c.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:57753/event/</link>
+      <link>http://localhost:58568/event/</link>
     </image>
     
     <item>
       <title>23rd International Conference on Web-based Learning</title>
-      <link>http://localhost:57753/event/icwl_2024/</link>
+      <link>http://localhost:58568/event/icwl_2024/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57753/event/icwl_2024/</guid>
+      <guid>http://localhost:58568/event/icwl_2024/</guid>
       <description>&lt;p&gt;Detailed 
 
 &lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications</title>
-      <link>http://localhost:57753/event/metacom_2024/</link>
+      <link>http://localhost:58568/event/metacom_2024/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57753/event/metacom_2024/</guid>
+      <guid>http://localhost:58568/event/metacom_2024/</guid>
       <description>&lt;p&gt;Detailed 
 &lt;/p&gt;
 
